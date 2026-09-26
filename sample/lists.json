@@ -1,0 +1,6 @@
+{
+  "every_error_code": "E_BAD_EVERY",
+  "every": 2,
+  "left": [1, 2, 3, 4, 5],
+  "right": ["a", "b"]
+}
